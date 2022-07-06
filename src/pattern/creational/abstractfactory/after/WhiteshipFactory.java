@@ -1,8 +1,8 @@
-package pattern.abstractfactory.after;
+package pattern.creational.abstractfactory.after;
 
-import pattern.factorymethod.after.Ship;
-import pattern.factorymethod.after.ShipFactory;
-import pattern.factorymethod.after.Whiteship;
+import pattern.creational.factorymethod.after.Ship;
+import pattern.creational.factorymethod.after.ShipFactory;
+import pattern.creational.factorymethod.after.Whiteship;
 
 public class WhiteshipFactory implements ShipFactory {
 

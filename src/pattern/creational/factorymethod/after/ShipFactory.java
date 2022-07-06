@@ -1,4 +1,4 @@
-package pattern.factorymethod.after;
+package pattern.creational.factorymethod.after;
 
 public interface ShipFactory {
 

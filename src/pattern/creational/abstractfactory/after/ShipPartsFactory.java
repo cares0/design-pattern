@@ -1,4 +1,4 @@
-package pattern.abstractfactory.after;
+package pattern.creational.abstractfactory.after;
 
 public interface ShipPartsFactory {
 

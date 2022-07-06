@@ -1,8 +1,4 @@
-package pattern.factorymethod.after;
-
-import pattern.abstractfactory.after.Anchor;
-import pattern.abstractfactory.after.Wheel;
-import pattern.abstractfactory.after.WhiteAnchor;
+package pattern.creational.factorymethod.before;
 
 public class Ship {
 
@@ -11,26 +7,6 @@ public class Ship {
     private String color;
 
     private String logo;
-
-    private Anchor anchor;
-
-    private Wheel wheel;
-
-    public Anchor getAnchor() {
-        return anchor;
-    }
-
-    public void setAnchor(Anchor anchor) {
-        this.anchor = anchor;
-    }
-
-    public Wheel getWheel() {
-        return wheel;
-    }
-
-    public void setWheel(Wheel wheel) {
-        this.wheel = wheel;
-    }
 
     public String getName() {
         return name;

@@ -1,4 +1,4 @@
-package pattern.factorymethod.before;
+package pattern.creational.factorymethod.before;
 
 public class Client {
 

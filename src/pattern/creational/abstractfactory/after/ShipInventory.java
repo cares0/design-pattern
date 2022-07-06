@@ -1,7 +1,7 @@
-package pattern.abstractfactory.after;
+package pattern.creational.abstractfactory.after;
 
-import pattern.factorymethod.after.Ship;
-import pattern.factorymethod.after.ShipFactory;
+import pattern.creational.factorymethod.after.Ship;
+import pattern.creational.factorymethod.after.ShipFactory;
 
 public class ShipInventory {
 

@@ -1,4 +1,4 @@
-package pattern.singleton;
+package pattern.creational.singleton;
 
 import java.io.*;
 import java.lang.reflect.Constructor;
